@@ -1,6 +1,10 @@
+var script = document.createElement('script');
+script.src = 'https://code.jquery.com/ui/1.13.3/jquery-ui.js';  
+document.getElementsByTagName('head')[0].appendChild(script);
 
 
 $( document ).ready(function() {
+
 
 
 var cards=[
@@ -103,7 +107,7 @@ ran= Math.round(Math.random()*20);
     el.src=blindcard;
 */
     $('.flashcard').hide();
-    $('#checkanswer').hide();
+    $('#checkanswer').show();
  var displaycard=cards[ran].question;
     var el=document.getElementById('card');
     el.src=displaycard;
