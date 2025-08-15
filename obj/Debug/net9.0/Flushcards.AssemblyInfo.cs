@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flushcards")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+678a089989c961865d2dea5ba2058c3f50e0c456")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ab7e23b064a2dc4dd9784689d4e738e23fb95c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flushcards")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flushcards")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
